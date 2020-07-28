@@ -1,5 +1,8 @@
 package com.example;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Maths {
 	// logic
 	public int add(int a, int b) {
